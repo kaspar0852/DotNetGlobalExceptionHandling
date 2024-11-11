@@ -9,7 +9,7 @@ A proof-of-concept ASP.NET Core Web API project demonstrating a robust global ex
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - 
+ 
 ## Introduction
 
 ExceptionHandlerPOC is designed to demonstrate a robust global exception handling mechanism in an ASP.NET Core Web API using .NET 8. This project focuses on:
@@ -44,3 +44,18 @@ ExceptionHandlerPOC is designed to demonstrate a robust global exception handlin
 
    ```bash
    git clone https://github.com/yourusername/ExceptionHandlerPOC.git
+
+2. **Fork the Repository
+  If you prefer to fork the repository to contribute or customize it:
+    - Click the "Fork" button at the top-right corner to create your own copy of the repository.
+    - Clone your forked repository to your local machine
+      
+      ```bash
+       git clone https://github.com/yourusername/ExceptionHandlerPOC.git
+
+3. **Reference
+   This project is inspired by the following article:
+    - Global Error Handling in ASP.NET Core 8 by Milan Jovanović
+      
+         - https://www.milanjovanovic.tech/blog/global-error-handling-in-aspnetcore-8
+   
